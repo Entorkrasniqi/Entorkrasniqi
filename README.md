@@ -1,3 +1,5 @@
+![lahainebanner](https://github.com/user-attachments/assets/0bf6bfdd-f47f-4fcf-82a2-7ee5de7151a2)
+
 #  About Me:
 I am a second-year Information Technology student at Metropolia University of Applied Sciences, specializing in software engineering and minoring is cybersecurity. I have experience in project execution, such as network configuration, software applications and web applications. Additionally, I thrive in collaborative environments and excel at problem-solving.
 
