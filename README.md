@@ -3,7 +3,7 @@
 ###
 
 #  About Me:
-I am a Information Technology student at Metropolia University of Applied Sciences, specializing in software engineering. I have experience in project execution, including network configuration, software development, and web applications. Additionally, I thrive in collaborative environments and excel at problem-solving.
+I am a Information Technology student at Metropolia University of Applied Sciences, specializing in software engineering. I have experience in project execution, including network configuration, software development, mobile and web applications. Additionally, I thrive in collaborative environments and excel at problem-solving.
 
 
 ##  Socials:
