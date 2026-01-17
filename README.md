@@ -3,7 +3,9 @@
 ###
 
 #  About Me:
-I am a Information Technology student at Metropolia University of Applied Sciences, specializing in software engineering. I have experience in project execution, including network configuration, software development, mobile and web applications. Additionally, I thrive in collaborative environments and excel at problem-solving.
+Information Technology student at Metropolia University of Applied Sciences and entrepreneur specializing in software engineering.
+Experienced in Java, JavaScript, Python and Kotlin. Delivered multiple client projects across
+software, web, and mobile platforms. Strong teamwork and problem-solving abilities.
 
 ##  Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:entorkrasniqi99@gmail.com) 
