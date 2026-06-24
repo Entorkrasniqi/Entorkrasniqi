@@ -4,7 +4,7 @@
 
 #  About Me:
 Information Technology student at Metropolia University of Applied Sciences and entrepreneur specializing in software engineering.
-Experienced in Java, JavaScript, Python and Kotlin. Delivered multiple client projects across
+And also Founder of Vire Software. Delivered multiple client projects across
 software, web, and mobile platforms. Strong teamwork and problem-solving abilities.
 
 ##  Socials:
