@@ -3,8 +3,7 @@
 ###
 
 #  About Me:
-Information Technology student at Metropolia University of Applied Sciences and entrepreneur specializing in software engineering.
-And also Founder of Vire Software. Delivered multiple client projects across
+Information Technology student at Metropolia University of Applied Sciences and entrepreneur specializing in software engineering. Delivered multiple client projects across
 software, web, and mobile platforms. Strong teamwork and problem-solving abilities.
 
 ##  Socials:
